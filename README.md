@@ -13,7 +13,12 @@ Team Members
 
 Amrit Sahani
 contact - situnamrit@gmail.com
+https://github.com/situnamrit
+
 Tulsi Prasad
+tulsi.prasad50@gmail.com
+https://github.com/tulsi-prasad
+
 
 
 
