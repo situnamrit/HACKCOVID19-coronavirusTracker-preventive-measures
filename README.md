@@ -199,6 +199,17 @@ and Prevention (Chinese CDC) for within (A) and outside (B) mainland China."""
 
 
 
+
+
+
+Thanks to all the contributors for all the sources from different data sources of the health.
+
+Below is the instructions to all the data fetched by the contributors.
+The below stated API is being currently used in the web application and is solely for education purpose and in no way belongs to us. The data and the API is open, we have utilised it for creating web and application based program on the folloewing data.
+The following API is available in the following github link  and is also under the license quoted by the following:
+https://github.com/ExpDev07/coronavirus-tracker-api
+
+
 <h1 align="center">
     Coronavirus Tracker API
 </h1>
